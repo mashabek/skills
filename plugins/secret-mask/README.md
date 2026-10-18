@@ -12,8 +12,8 @@ Tested with Claude Code 2.1.288. Function hooks are early access, so a later rel
 ## Install
 
 ```bash
-claude plugin marketplace add mashabek/claude-mods
-claude plugin install secret-mask@claude-mods
+claude plugin marketplace add mashabek/skills
+claude plugin install secret-mask@skills
 ```
 
 ## Commands
