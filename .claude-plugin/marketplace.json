@@ -1,6 +1,6 @@
 {
-  "name": "claude-mods",
-  "description": "Mods for Claude Code: plugins built on the function-hooks API",
+  "name": "skills",
+  "description": "Plugins and skills for Claude Code",
   "owner": {
     "name": "mashabek",
     "url": "https://github.com/mashabek"
@@ -10,6 +10,11 @@
       "name": "secret-mask",
       "source": "./plugins/secret-mask",
       "description": "Masks secrets in tool output and prompts before Claude reads them"
+    },
+    {
+      "name": "example-skill",
+      "source": "./plugins/example-skill",
+      "description": "Template skill plugin. Copy, rename and replace before publishing."
     }
   ]
 }

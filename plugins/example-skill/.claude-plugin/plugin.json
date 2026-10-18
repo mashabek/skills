@@ -1,0 +1,14 @@
+{
+  "name": "example-skill",
+  "version": "0.1.0",
+  "description": "Template skill plugin. Copy, rename and replace before publishing.",
+  "author": {
+    "name": "mashabek"
+  },
+  "homepage": "https://github.com/mashabek/skills/tree/main/plugins/example-skill",
+  "repository": "https://github.com/mashabek/skills",
+  "keywords": [
+    "template",
+    "skill"
+  ]
+}
