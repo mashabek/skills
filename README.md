@@ -12,6 +12,7 @@ claude plugin install <name>@skills
 | Plugin | |
 |---|---|
 | [secret-mask](plugins/secret-mask) | Masks API keys, tokens and passwords in tool output before Claude reads them. Built on the function-hooks API.<br><img src="plugins/secret-mask/demo.svg" width="480" alt="Your terminal shows the secret, Claude reads ‹secret:1›"> |
+| [projector](plugins/projector) | Plays a video inside a pane beside the chat, with sound: a YouTube link, any yt-dlp URL, or a local file. Real frames where the terminal draws inline images, colored pixel art elsewhere. |
 
 ## Skills
 

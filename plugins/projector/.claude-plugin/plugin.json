@@ -1,0 +1,16 @@
+{
+  "name": "projector",
+  "version": "0.1.0",
+  "description": "Plays a video inside a Claude Code pane: YouTube or any yt-dlp URL, or a local file, with sound. Inline images where the terminal draws them, colored pixel art elsewhere.",
+  "author": {
+    "name": "mashabek"
+  },
+  "homepage": "https://github.com/mashabek/skills/tree/main/plugins/projector",
+  "repository": "https://github.com/mashabek/skills",
+  "keywords": [
+    "video",
+    "player",
+    "pane",
+    "mod"
+  ]
+}

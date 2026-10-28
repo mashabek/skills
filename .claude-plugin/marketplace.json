@@ -12,6 +12,11 @@
       "description": "Masks secrets in tool output and prompts before Claude reads them"
     },
     {
+      "name": "projector",
+      "source": "./plugins/projector",
+      "description": "Plays a video inside a pane: YouTube, any yt-dlp URL, or a local file, with sound"
+    },
+    {
       "name": "example-skill",
       "source": "./plugins/example-skill",
       "description": "Template skill plugin. Copy, rename and replace before publishing."
